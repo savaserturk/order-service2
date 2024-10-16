@@ -2,8 +2,8 @@
 node_modules/
 
 # Ignore lock files (if you want to keep lockfiles, you can omit this section)
-package-lock.json
-yarn.lock
+#package-lock.json
+#yarn.lock
 
 # Ignore log files
 npm-debug.log*
